@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ebab661c75658c587087e8fe1a7fd8a9e712bf6f">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\instant-run_e8145c963a4603a78d7660130e169331bbfa81da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_bf9d02703f9e8a19472cfc2bddbc38145d628e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_49721a370f24559e2da06c11d65e1e51a0a3991a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9f7a79b913dc73be3199bb8e7d2057f5f1b44bea">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b1438060401cdb9a12ad89359b24e4c7f4644b14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_ae5db5e6866e2320c67c85ddc8806c77ebaf8dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_c189d93803f065c7be7074ae845cf59abc79c9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_9135413c28edbf7b5ea6e936affb55b7eaa7f339.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_5bab1c47ce0adba21db7008b8c6d7c1be70f4f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_dc97105621132bb54662ff1fdcf2a081e9434965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_f18b0a60e4b81a711e141af3af6daca381d930f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Cuneyt\AndroidStudioProjects\YdsAndroidUygulama\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_bd84ac9ec73ef30d254031d9b8fbd88cdd9304c0.jar" />
+    </item>
+
+</items>
